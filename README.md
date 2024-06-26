@@ -1,7 +1,4 @@
 # Backup-and-Restore-Visual-Studio-Solution-Script
-Python Script to Backup and Restore Visual Studio Solution Localy 
-
-# Backup and Restore Solution Script
 
 This Python script automates the process of backing up and restoring Visual Studio solutions. It provides options to back up the currently open solution, back up all solutions in a specified directory, and restore a previously backed-up solution.
 
